@@ -93,7 +93,7 @@ Se le pedirá confirmación para eliminar el jugador. Haga clic en **"Aceptar"**
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-*Repita estos pasos según sea necesario para agregar nuevas tareas, ver las tareas existentes o salir del programa.*
+*Repita estos pasos según lo requiera para agregar nuevos equipos y jugadores.*
 
 ## Ejecutando las pruebas
 
