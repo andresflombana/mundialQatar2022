@@ -1,0 +1,15 @@
+servlets\calcularNomina.class
+servlets\EditarJugador.class
+servlets\EditarEquipo.class
+servlets\EliminarEquipo.class
+com\mundo\mundial\resources\JavaEE8Resource.class
+com\mundo\mundial\JAXRSConfiguration.class
+com\mundo\mundial\gestionarJugadores.class
+servlets\agregarEquipo.class
+com\mundo\mundial\gestionarEquipos.class
+com\mundo\mundial\Equipo.class
+com\mundo\mundial\Jugador.class
+servlets\MostrarJugadores.class
+servlets\agregarJugador.class
+servlets\EliminarJugador.class
+servlets\MostrarEquipos.class
